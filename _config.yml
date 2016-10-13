@@ -1,10 +1,10 @@
 # Site settings
-title: neoelemento
-owner: Vishnu Padmanabhan
-email: vishnu@neoelemento.com
+title: The Purpose
+owner: Shankar and Vishnu
+email: publishing@neoelemento.com
 description: > # this means to ignore newlines until "baseurl:"
-  I enjoy living. I try to see positivity in everything. Sarcastic most of the time, hence have only true friends. If I have a good thought, I write it down here.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+  The Story
+baseurl: "/the-purpose/" # the subpath of your site, e.g. /blog/
 url: "http://neoelemento.com" # the base hostname & protocol for your site
 twitter_username: neoelemento
 github_username:  neoelemento

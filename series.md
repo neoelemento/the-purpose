@@ -4,8 +4,10 @@ title: Series
 permalink: /series/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the begining of a series:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+- Chapter 0: [Prologue](#)
+- Chapter 1: [Retrospect](#)
+- Chapter 2: [The Trip](#)
+- Chapter 3: The Struggle (07/11/2016)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
