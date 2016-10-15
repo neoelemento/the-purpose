@@ -40,6 +40,7 @@ She pauses for a second and sobs, “I lost my husband and I'm not ready lose my
 
 “Okay mom. I will not apply.” He closes the window and deletes the form assuring her. “You don't have to worry about it anymore.”
 He gets up and hugs her. She cries harder. “I don't want to lose you beta. I don't ever want to lose you.
+
 ----------
 
 **Manali**
@@ -78,6 +79,7 @@ He picks the phone from her and looks intently as Tony and Stella join them at t
 “Come on Shiva, join the party. Don't make us wait.” Said an excited Tony.
 
 “Okay… I won't spoil it for you.” Shiva raises his glass hesitantly, not realising this decision will come to haunt him in 36 hours.
+
 ----------
 
 **Delhi (NCR)**
@@ -107,6 +109,7 @@ Vrinda panics, “What happened? Is everything okay?”
 “Okay okay, I'll tell him to call you.” Vrinda says feeling better.
 
 “Say ‘Hi’ to the kids. Got a meeting. Gotta go.” Jay hangs up before Vrinda can respond.
+
 ----------
 
 About a thousand kilometres away, Akshay restores the form from the recycle bin. He opens it and stares at it. *It is now or never.* He attaches it to the website and proceeds to click on submit for the second time this morning. He hesitates. *Oh God! Help me…*
