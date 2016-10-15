@@ -43,7 +43,7 @@ He gets up and hugs her. She cries harder. “I don't want to lose you beta. I d
 
 ----------
 
-#####Manali
+##### Manali
 
 *Mini Terrace, Snow Valley Resorts*
 
@@ -83,7 +83,7 @@ He picks the phone from her and looks intently as Tony and Stella join them at t
 
 ----------
 
-#####Delhi (NCR)
+##### Delhi (NCR)
 
 *Danport International Bank Headquarters*
 
