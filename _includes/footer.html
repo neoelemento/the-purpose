@@ -1,8 +1,8 @@
 <footer class="page-footer grey lighten-3">
   <div class="container">
     <div class="row">
-      <div class="col s12 m10 offset-m1">
-          <h5 class="">{{ site.owner }}</h5>
+      <div class="col s12 m12">
+          <h5 class="">{{ site.title }}</h5>
           <p class="">{{ site.description }}</p>
       </div>
     </div>
@@ -10,9 +10,9 @@
   <div class="footer-copyright">
     <div class="container">
       <div class="row">
-        <div class="col s12 m10 offset-m1">
+        <div class="col s12 m12">
           {{ site.title }} © 2016 {{ site.owner }} | <a href="http://feeds.feedburner.com/neoelemento" target="_blank">feed</a> | <a href="https://twitter.com/neoelemento" target="_blank">twitter</a>           
-          <a class="right" href="http://neoelemento.com">Site designed and built by yours truly.</a>          
+          <span class="right">Site designed and built by <a href="http://neoelemento.com">neoelemento.</a></span>          
         </div>
       </div>    
     </div>
@@ -23,27 +23,26 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="{{ "/js/materialize.js" | prepend: site.baseurl }}"></script>
       
+
 <script>
+
 /**
-* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-*/
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-
-s.src = '//neoelemento.disqus.com/embed.js';
-
+s.src = '//the-purpose.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       
 <!-- Google analytics -->
 <script>

@@ -1,13 +1,14 @@
 # Site settings
 title: The Purpose
-owner: Shankar and Vishnu
+owner: neoelemento.com
 email: publishing@neoelemento.com
 description: > # this means to ignore newlines until "baseurl:"
   The Story
-baseurl: "/the-purpose/" # the subpath of your site, e.g. /blog/
+baseurl: "/the-purpose" # the subpath of your site, e.g. /blog/
 url: "http://neoelemento.com" # the base hostname & protocol for your site
 twitter_username: neoelemento
 github_username:  neoelemento
+next_episode: Nov 20, 2016
 
 # Build settings
 markdown: kramdown

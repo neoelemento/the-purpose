@@ -234,3 +234,29 @@
         }
     }
 }
+
+// Page nav
+
+.PageNavigation {
+  font-size: 18px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  font-weight: bold;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+.card .card-action a {
+    color: #666 !important;
+    font-weight: bold;
+}

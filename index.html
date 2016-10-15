@@ -2,24 +2,37 @@
 layout: default
 ---
 <main>
+  <div class="banner hide-on-small-only" style="width: 100%; height: 550px; background: url('http://res.cloudinary.com/neoelemento/image/upload/v1476435010/blog/war-min.jpg') no-repeat bottom right, rgba(0,0,0,0.1); background-size: cover; background-attachment: fixed;">          
+  </div>
   <div class="blog">
-    <img class="responsive-img hide-on-small-only" src="http://res.cloudinary.com/neoelemento/image/upload/v1463119849/blog/Hustle-min.jpg" width="100%">
-    <div class="container">
+    <div class="container">      
       <div class="row">
-        <div class="col m10 offset-m1">
-        {% for post in paginator.posts %}
+        <div class="col m4 s12 offset-m4">
+          <div class="card grey lighten-4">
+            <div class="card-content black-text center-align">
+              <span class="card-title red-text lighten-2">EPISODES</span>
+            </div>
+            <div class="card-action center-align">
+              <h6>Next Episode: <strong>{{ site.next_episode }}</strong></h6>
+            </div>
+          </div>
+        </div>
+        <div class="col m12">
+        {% for post in paginator.posts reversed %}
+          <div class="col m4 s12">  
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              <h2 class="post-title-main">
-                {{ post.title }}
-              </h2>
-            </a>            
-            <h5 class="post-meta" style="color: #AEAEAE;">Posted on: {{ post.date | date: "%b %-d, %Y" }}</h5>
-            <article class="post-content" style="margin-top: 15px;">
-              <!-- {{ post.content | strip_html | truncatewords: 30 }} -->
-              {{ post.excerpt }}
-            </article> 
-          {% endfor %}
-          
+              <div class="card grey lighten-4">
+                <div class="card-content black-text">
+                  <span class="card-title green-text darken-2">{{ post.title }}</span>
+                  <p class="post-content">{{ post.excerpt }}</p>
+                </div>
+                <div class="card-action">
+                  <a href="#">Posted on: {{ post.date | date: "%b %-d, %Y" }}</a>
+                </div>
+              </div>
+            </a> 
+          </div>           
+          {% endfor %}          
           
           
           <!-- pagination -->

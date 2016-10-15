@@ -29,7 +29,15 @@ layout: default
 	          <h5 class="post-meta" style="{% if page.video %} color: #AEAEAE; {% endif%}">Published on {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} by <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">{{ page.author }}</a>{% endif %}{% if page.meta %} | {{ page.meta }}{% endif %}</h5>
 	          <article class="post-content" style="{% if page.video %} margin-top: 15px; {% endif%}">
 	            {{ content }}
-	          </article>  
+	          </article>
+            <div class="PageNavigation">
+              {% if page.previous.url %}
+                <a class="prev" href="/the-purpose/{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+              {% endif %}
+              {% if page.next.url %}
+                <a class="next" href="/the-purpose/{{page.next.url}}">{{page.next.title}} &raquo;</a>
+              {% endif %}
+            </div>  
               {% if page.audio %}
                 <h6 style="font-weight: bold">Audio version of the post:</h6>
                 <div class="row">
@@ -41,8 +49,7 @@ layout: default
                     </div>
                 </div>                           
               {% endif %}
-	          <hr color="#ededed"><br >
-	          <p class="comments">Like what I write? Hit me up <a href="http://twitter.com/neoelemento">@neoelemento</a>    
+	          <hr color="#ededed"><br >  
               {% if page.attr %}
                 <span class="right hide-on-small-only comments">Banner image source: {{ page.attr }}</span>
               {% endif %}
