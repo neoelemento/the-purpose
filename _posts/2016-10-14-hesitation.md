@@ -5,7 +5,7 @@ excerpt: "Sometimes you make a choice, it changes your life."
 date:   2016-10-14 00:01:00
 categories: series
 ---
-#### Bangalore
+##### Bangalore
 *Present day*
 
 Akshay reads the form for the third time and contemplates whether it is time to proceed or not. A thousand thoughts occupied his mind. He looks up at the framed photograph of his Dad hung up on the wall expecting a sign. He gets nothing. He goes through the form again and his gaze meets the words ‘Join Indian Army’ written at the top left of the website. His chain of thoughts are broken by his Mom, Megha, who enters the room.

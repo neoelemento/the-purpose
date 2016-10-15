@@ -5,7 +5,7 @@ excerpt: "Many minds, power hungry. No agreement."
 date:   2016-10-15 00:01:00
 categories: series
 ---
-#### Geneva, Switzerland
+##### Geneva, Switzerland
 *The United Nations*
 
 The idea of a peaceful community of nations had been proposed for the first time by Immanuel Kant back in the late eighteenth century. The Geneva Conventions of 1864 and 1906 proved to be the stepping stones towards the realisation of the importance of this concept. It defined the rights of wartime prisoners; established protection of wounded, sick and civilians in and around war zone. The First World War was what really triggered the major powers of the world to form the League of Nations, in 1920, whose principal mission was to maintain world peace. But the League of Nations did not succeed in its mission and succumbed once the Second World War broke out. The United Nations was established on the 24th of October 1945 as a replacement to the ineffective League of Nations. Headquartered in Manhattan, New York with main offices situated in Geneva, Nairobi and Vienna; the organisation is financed by its member nations. For the past seventy years, the organisation have went through a series of acid tests during the Korean, Vietnamese and the Cold Wars; and has managed to come out on top each time. They have managed to keep a decent track record.
