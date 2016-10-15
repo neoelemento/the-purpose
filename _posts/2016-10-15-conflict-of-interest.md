@@ -18,8 +18,7 @@ The fight for nuclear supremacy has be going on since the Second World War. On t
 
 ----------
 
-**Mansehra, Pakistan**
-
+##### Mansehra, Pakistan
 *ISIS Camp*
 
 The Islamic State of Iraq and Syria, also known as Islamic State of Iraq and the Levant (ISIL), is a Salafi jihadist – form of violence and terrorism justified to realise their political objectives – militant group that follows a fundamentalist, Wahhabi doctoring of Sunni Islam. Sunni Islam is the largest denomination of Islam and Wahhabism is an ultraconservative religious movement which branches out of the largest denomination. Formed in 1999, under Jordanian radical Abu Misha al-Zarqawi, they swore allegiance to Osama bin Laden in 2004, who renamed the group al-Qaeda. The group joined other Sunni insurgents to form Mujahideen Shura Council in early 2006. After al-Zarqawi was killed in mid-2006, the group merged with more insurgent forces to form the Islamic State of Iraq (ISI). Following the outbreak of Syrian Civil War in 2011, the ISI delegated a mission into Syria. Later in 2014, an effort to merge was made with the Syria al-Nusra Front to form ISIL. This power struggle and the effort to merge the different fronts of insurgents resulted in the loss of support from al-Qaeda making ISIL a group on their own.
