@@ -44,6 +44,7 @@ He gets up and hugs her. She cries harder. “I don't want to lose you beta. I d
 ----------
 
 **Manali**
+
 *Mini Terrace, Snow Valley Resorts*
 
 Shiva takes another sip of coffee letting the caffeine do its job. As opposed to the website, the place exceeded their expectations and he felt glad Tony and Stella convinced them to do this. The mini terrace is usually packed during the evenings making it a great place to chill in the mornings; without any interruptions other than the occasional waiters.
@@ -83,6 +84,7 @@ He picks the phone from her and looks intently as Tony and Stella join them at t
 ----------
 
 **Delhi (NCR)**
+
 *Danport International Bank Headquarters*
 
 Jay found it really hard to breathe running through the service road, almost getting hit by a Honda sedan while crossing the intersection next to his office building. He checked his phone and heaved a sigh of relief realising he still got a couple of minutes to make it on time. *What a great time for the car to break down! Unreliable piece of shit.* He cursed as he entered.
