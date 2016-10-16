@@ -10,7 +10,7 @@ categories: series
 
 Akshay reads the form for the third time and contemplates whether it is time to proceed or not. A thousand thoughts occupied his mind. He looks up at the framed photograph of his Dad hung up on the wall expecting a sign. He gets nothing. He goes through the form again and his gaze meets the words ‘Join Indian Army’ written at the top left of the website. His chain of thoughts are broken by his Mom, Megha, who enters the room.
 
-“You want tea Akshay?” She asks as she places a plate of delicious chapatis and dal curry on the table.
+“You want tea Akshay?” She asked as she places a plate of delicious chapatis and dal curry on the table.
 
 “Yes please,” he answers with a big smile on his face, “how can I start the day without your tea.”
 
@@ -18,7 +18,7 @@ Akshay reads the form for the third time and contemplates whether it is time to 
 
 “Probably will take another week,” he said taking a bite of chapati, “they will be reaching Ladhak tomorrow as far as I know.”
 
-“Okay okay.” She says as her eyes meets the screen.
+“Okay okay.” She said as her eyes meets the screen.
 
 Akshay, stops chewing, realise that she got to know what he was doing. The jovial mood turns to an awkward tense one. Megha becomes extremely anxious and Akshay holds his head down not knowing how to get through the situation.
 
@@ -26,11 +26,11 @@ Akshay, stops chewing, realise that she got to know what he was doing. The jovia
 
 “Mom, it’s not as you think it is. Karan told me that the forms are available online,” he turns around and shows her the website, “I'm just checking it.”
 
-“Oh, you're just checking,” she asks passive aggressively, “so the form just filled on its own?”
+“Oh, you're just checking,” she cuts in passive aggressively, “so the form just filled on its own?”
 
 “I just wanted to see Mom, I swear! In case if I ever wanted to apply…”
 
-Before he could complete the sentence, she cuts him off, “…If ever you wanted to apply?” She takes a deep breath, trying to calm herself down. “I see, that is really nice Akshay….” 
+Before he could complete the sentence, she cuts him off, “…If you ever wanted to apply?” She takes a deep breath, trying to calm herself down. “I see, that is really nice Akshay….” 
 
 She pauses for a second and sobs, “I lost my husband and I'm not ready lose my son too.”
 
@@ -57,7 +57,7 @@ He points at at the splendid view of the mountains. Sheetal turns and smiles, en
 
 He picks the phone from her and looks intently as Tony and Stella join them at the table with toasts and sandwiches.
 
-“I have never seen you concentrate on something so much since Manju’s birthday party.” Said Tony as he peeked to take a look into Sheetal’s phone. “Show me what you looking at.”
+“I have never seen you concentrate on something so much since Manju’s birthday party.” Said Tony with a chuckle he peeked to take a look into Sheetal’s phone. “Show me what you looking at.”
 
 “Can you really blame me? She had the most delicious birthday cake ever!” Said Shiva frowning at Tony. He focuses back on the phone. “See, it will take us fourteen hours to get from here to Ladakh. If we start tomorrow morning, it will be really late when we get there.”
 
@@ -85,13 +85,13 @@ He picks the phone from her and looks intently as Tony and Stella join them at t
 
 ##### Delhi (NCR)
 
-*Danport International Bank Headquarters*
+*Danport International Bank*
 
 Jay found it really hard to breathe running through the service road, almost getting hit by a Honda sedan while crossing the intersection next to his office building. He checked his phone and heaved a sigh of relief realising he still got a couple of minutes to make it on time. *What a great time for the car to break down! Unreliable piece of shit.* He cursed as he entered.
 
-He walked briskly through the path between the staff cabins ignoring their presence and went straight to his. Compared to the rest, his cabin was totally different in an expensive way. Well, he is the Director of the company. Isn't it expected. He did always feel a station higher than everyone every time he entered his cabin. It was a 20X15 room, fully furnished with wall to wall carpeting, a big size teak table with intricate artworks on both sides with an executive chair to go with it. A couch on the side next to the door, a two tonne air conditioner and a 42 inch television. He felt the same this time but the frustration was evident when he realised he forgot to switch the television off the day before.
+He walked briskly through the path between the staff cabins ignoring their presence and went straight to his. Compared to the rest, his cabin was totally different in an expensive way. Well, he is the Director. Isn't it expected from him. He did always feel a station higher than everyone every time he stepped into his cabin. It was a 20X15 room, fully furnished with wall to wall carpeting, a big size teak table with intricate artworks on both sides and an executive chair to go with it. A couch on the side next to the door, a two tonne air conditioner and a 42 inch television. He felt the same this time but the frustration was evident when he realised he forgot to switch the television off the day before.
 
-“Pakistan defence minister threatens India with nuclear attack,” said the reported, “if the defence and survival is in danger they would use everything to protect themselves is what he said.”
+“Pakistan defence minister threatens India with nuclear attack,” said the reporter, “if the defence and survival is in danger they would use everything to protect themselves is what he said.”
 
 The shot changes to the video of defence minister in a press conference. A visible pissed Jay takes the remote controller and slams hard on the button with his thumb switching the television off.
 
@@ -104,13 +104,14 @@ He picks up the office phone and dials. The call connects after a few rings.
 “Hi honey, you never call to let me know you reached. Why today?” Asked a confused Vrinda.
 
 “You know me so well,” Jay laughs, “my car broke down, can you ask Shambhu to call me?”
-Vrinda panics, “What happened? Is everything okay?”
 
-“Yeah yeah, just an issue with the battery.” Said he sitting on the table. “Shambhu can collect the keys and get it fixed by evening.”
+“What happened? Is everything okay?” Vrinda panics.
+
+“Yeah yeah, just an issue with the battery.” Said he sitting on one of the sides of the table. “Shambhu can collect the keys and get it fixed by evening.”
 
 “Okay okay, I'll tell him to call you.” Vrinda says feeling better.
 
-“Say ‘Hi’ to the kids. Got a meeting. Gotta go.” Jay hangs up before Vrinda can respond.
+“Say ‘Hi’ to the kids. Got a meeting. Gotta go.” Jay hangs up before Vrinda could respond.
 
 ----------
 <br>    
