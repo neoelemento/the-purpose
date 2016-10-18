@@ -20,7 +20,7 @@ Akshay reads the form for the third time and contemplates whether it is time to 
 
 “Okay okay.” She said as her eyes meets the screen.
 
-Akshay, stops chewing, realise that she got to know what he was doing. The jovial mood turns to an awkward tense one. Megha becomes extremely anxious and Akshay holds his head down not knowing how to get through the situation.
+Akshay, stops chewing, realise that she got to know what he was doing. The jovial mood turns to an awkward tense one. Megha becomes extremely anxious and Akshay turns pale, not knowing how to get through the situation.
 
 “So you have made your decision, haven’t you?” She questions holding back on her emotions.
 
