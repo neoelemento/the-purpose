@@ -14,23 +14,23 @@ Akshay reads the form for the third time and contemplates whether it is time to 
 
 “Yes please,” he answers with a big smile on his face, “how can I start the day without your tea.”
 
-“Haha! As if I would fall for your sweet buttering.” She said, “By the way, you know when Shiva and the rest are getting back?”
+“Haha! I won't fall for your buttering beta.” She said smiling, “By the way, you know when Shiva and the rest are getting back?”
 
 “Probably will take another week,” he said taking a bite of chapati, “they will be reaching Ladhak tomorrow as far as I know.”
 
 “Okay okay.” She said as her eyes meets the screen.
 
-Akshay, stops chewing, realise that she got to know what he was doing. The jovial mood turns to an awkward tense one. Megha becomes extremely anxious and Akshay turns pale, not knowing how to get through the situation.
+Akshay stops, food halfway to his mouth, realising that she found out what he was doing. The jovial mood turns to an awkward tense one. Megha becomes extremely anxious and Akshay turns pale, not knowing how to get through the situation.
 
-“So you have made your decision, haven’t you?” She questions holding back on her emotions.
+“So you have made your decision, haven’t you?” She questions trying to hide her disappointment.
 
 “Mom, it’s not as you think it is. Karan told me that the forms are available online,” he turns around and shows her the website, “I'm just checking it.”
 
-“Oh, you're just checking,” she cuts in passive aggressively, “so the form just filled on its own?”
+“Oh, you're just checking,” she cuts in, “so the form just filled on its own?”
 
 “I just wanted to see Mom, I swear! In case if I ever wanted to apply…”
 
-Before he could complete the sentence, she cuts him off, “…If you ever wanted to apply?” She takes a deep breath, trying to calm herself down. “I see, that is really nice Akshay….” 
+Before he could complete the sentence, she cuts him off, “If you ever wanted to apply?” She takes a deep breath, trying to calm herself down. “I see, that is really nice Akshay...” 
 
 She pauses for a second and sobs, “I lost my husband and I'm not ready lose my son too.”
 
@@ -47,7 +47,7 @@ He gets up and hugs her. She cries harder. “I don't want to lose you beta. I d
 
 *Mini Terrace, Snow Valley Resorts*
 
-Shiva takes another sip of coffee letting the caffeine do its job. As opposed to the website, the place exceeded their expectations and he felt glad Tony and Stella convinced them to do this. The mini terrace is usually packed during the evenings making it a great place to chill in the mornings; without any interruptions other than the occasional waiters.
+Shiva takes another sip of coffee letting the caffeine do its job. Cool morning breeze and the sound of birds really was a welcome relief from the busy and polluted city. As opposed to the website, the place exceeded their expectations and he felt glad Tony and Stella convinced them to do this. The mini terrace is usually packed during the evenings making it a great place to chill in the mornings; without any interruptions other than the occasional waiters.
 
 “It does feel great to take some time off.” He began, prompting Sheetal to look up from her phone. “We should do this more often.”
 
@@ -115,4 +115,4 @@ He picks up the office phone and dials. The call connects after a few rings.
 
 ----------
 <br>    
-About a thousand kilometres away, Akshay restores the form from the recycle bin. He opens it and stares at it. *It is now or never.* He attaches it to the website and proceeds to click on submit for the second time this morning. He hesitates. *Oh God! Help me…*
+Over two thousand kilometres south, Akshay restores the form from the recycle bin. He opens it and stares at it. *It is now or never.* He attaches it to the website and proceeds to click on submit for the second time this morning. He hesitates. *Oh God! Help me…*
