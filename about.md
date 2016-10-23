@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About "The Purpose"
+title: About
 permalink: /about/
 ---
 
