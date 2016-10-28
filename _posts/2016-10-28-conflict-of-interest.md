@@ -2,7 +2,7 @@
 layout: post
 title:  "2 - Conflict of interest"
 excerpt: "Many minds, power hungry. No agreement."
-date:   2016-10-15 00:01:00
+date:   2016-10-28 00:01:00
 categories: series
 ---
 ##### Geneva, Switzerland
