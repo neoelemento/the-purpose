@@ -9,6 +9,7 @@ categories: series
 *I am dying!*
 The realisation set her free. The pain subsided as her vision went pale. She knew she did not have much time, made peace with the truth.
 *Serenity.*
+
 ----------
 
 
@@ -122,6 +123,7 @@ He left with the lady in black as the rest of the table stared at each other, im
 Her face lit up as if she won a lottery worth a million dollar. “Yes, of course, I do.”
 
 He immediately regretted the decision.
+
 ----------
 
 
