@@ -10,7 +10,6 @@ categories: series
 The realisation set her free. The pain subsided as her vision went pale. She knew she did not have much time, made peace with the truth.
 *Serenity.*
 ----------
-
 <br>
 
 Glancing at the corner of his laptop, Siddharth realised he is going to be late. It's been a couple of weeks since they have been planning for this. The meeting has been running late because of the release this weekend. An indispensable asset for the company, he has a great rapport with his clients and colleagues, setting an example of work ethics to follow. Due to his efficiency, the management was fine with his strict eight hours policy. Besides, work was just a means of sustenance for him. His life started after work. 
@@ -124,7 +123,6 @@ Her face lit up as if she won a lottery worth a million dollar. “Yes, of cours
 
 He immediately regretted the decision.
 ----------
-
 <br>
 
 With blocked ears and the cold setting in, Stella and Sheetal waited for Tony and Shiva with the kids sleeping on the back. A number of electric drills can be heard functioning at regular intervals west of the military camp. It sounds muffled, maybe because of their blocked ears.
