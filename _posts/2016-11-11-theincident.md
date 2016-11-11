@@ -114,7 +114,7 @@ Akshay watched as Siddharth worked his magic. In just a few minutes he was able 
 
 “Tell mom not to wait up,” he winked, “and you Sir, try to have some fun.”
 
-He left with the lady in black as the rest of the table stared at each other, impressed. *Hel yeah,l I’m gonna have fun. He is right.* Akshay turns towards Kruthi and holds her hand gently.
+He left with the lady in black as the rest of the table stared at each other, impressed. *Hell yeah,l I’m gonna have fun. He is right.* Akshay turns towards Kruthi and holds her hand gently.
 
 “Do you wanna, uh… go somewhere.”
 
