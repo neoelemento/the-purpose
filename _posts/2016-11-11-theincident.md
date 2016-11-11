@@ -5,9 +5,6 @@ excerpt: "Things take a U-turn."
 date:   2016-11-11 00:01:00
 categories: series
 ---
-##### The Incident
-
-<br>
 *I am dying!*
 
 The realisation set her free. The pain subsided as her vision went pale. She knew she did not have much time, made peace with the truth.
