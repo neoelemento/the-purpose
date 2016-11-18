@@ -40,8 +40,7 @@ The road curved to the right and they saw a board to the side of the road. The h
 “Duck!” Screamed Shiva as the terrorists’ showered shots over shots on the Toyota.
 
 “We don't have a choice but to crash the car on them if we want to survive.” Tony barely heard what Shiva said, but he understood. He gave an approving nod and peeped through the once intact windscreen speeding at the three armed men. Maybe they did not expect this to happen, but the terrorist stood their ground and fired without moving an inch. The foursome braced for impact as the SUV crashed head-on with two of the terrorists and threw the other off guard hitting him in the stomach, throwing him on the road head first. The SUV then crashed into the wall surrounding the school, crushing the bodies of the two terrorists against it. The airbags deployed, reducing the impact and silence followed.
-----------
-<br>
+__
 
 “All these channels and nothing really worth to watch these days.” grumbled Megha switching from channel to channel.
 
@@ -52,11 +51,9 @@ She finds herself in the news section. All of which were reporting something abo
 A footage of the army fighting against the terrorists flash on the screen as the reporter continues.
 
 “Here is the action live from Pampore. Three terrorists have been killed and one SSB jawan lost his life. Five terrorists are said to be left, hiding inside the perimeter of a four storied building with some hostages. Which makes it difficult for the army.” She pauses for a few seconds. “Just in,” she sounds gutted as she continued, “there has been reported attacks at the military camp, the golf course and areas surrounding. Civilian casualties have been reported.”
-----------
-<br>
 
 A shocked Megha picks up her phone and dials Shiva with her trembling hands. *Not reachable.* She tries Sheetal’s number. *Not reachable.* She tries over and over again on both the numbers and gets greeted by the same response each time. Expecting the worst, she keeps the phone on her lap and covers her face with both hands.
-
+__
 Sheetal ran. She ran as fast as she could. The man she was running away had just killed another. She frantically searched for a place to hide. The walled compound was humongous. There were several single storied buildings scattered inside the perimeter. She turned her face around to take a glance at the attacker who just pulled out his handgun. *He is aiming. He is bloody aiming to shoot.* The adrenaline soared through her veins. She dashed for the nearest building which was about fifteen metres ahead. Sheetal felt her legs are going to give up on her any second. *Almost there.*
 
 A single shot rang. The loud bang reverberated through the air just as she jumped through the corridor and inside the building. Before she could register what had happened, she fell to the ground writhing in pain. *I'm shot! What do I do?* She kicked her legs trying to crawl towards the other side of the room. She searched for anything to hide behind, but all she could find were some benches and desks. She turned around lying on the floor, looking for her attacker. And there he was, his silhouette emerging through the door against the dim lit night. The realisation that the inevitable end is here triggered her whole life to flash in front of her. *This is it.* The only thing that can into her mind was Shiva and her daughter, Shruthi. *Oh God! I don't want to die.*
