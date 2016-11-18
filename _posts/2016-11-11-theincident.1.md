@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4 - The Incident"
-excerpt: "Things take a U-turn."
+excerpt: "Things take a U-turn. Who will come out on top?"
 date:   2016-11-11 00:01:00
 categories: series
 ---

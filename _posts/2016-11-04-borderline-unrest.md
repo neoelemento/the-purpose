@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 - Borderline unrest"
-excerpt: "The calm before the storm."
+excerpt: "The calm before the storm. Brace yourself."
 date:   2016-11-04 00:01:00
 categories: series
 ---
