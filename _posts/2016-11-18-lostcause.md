@@ -52,10 +52,10 @@ She finds herself in the news section. All of which were reporting something abo
 A footage of the army fighting against the terrorists flash on the screen as the reporter continues.
 
 “Here is the action live from Pampore. Three terrorists have been killed and one SSB jawan lost his life. Five terrorists are said to be left, hiding inside the perimeter of a four storied building with some hostages. Which makes it difficult for the army.” She pauses for a few seconds. “Just in,” she sounds gutted as she continued, “there has been reported attacks at the military camp, the golf course and areas surrounding. Civilian casualties have been reported.”
-
-A shocked Megha picks up her phone and dials Shiva with her trembling hands. *Not reachable.* She tries Sheetal’s number. *Not reachable.* She tries over and over again on both the numbers and gets greeted by the same response each time. Expecting the worst, she keeps the phone on her lap and covers her face with both hands.
 ----------
 <br>
+
+A shocked Megha picks up her phone and dials Shiva with her trembling hands. *Not reachable.* She tries Sheetal’s number. *Not reachable.* She tries over and over again on both the numbers and gets greeted by the same response each time. Expecting the worst, she keeps the phone on her lap and covers her face with both hands.
 
 Sheetal ran. She ran as fast as she could. The man she was running away had just killed another. She frantically searched for a place to hide. The walled compound was humongous. There were several single storied buildings scattered inside the perimeter. She turned her face around to take a glance at the attacker who just pulled out his handgun. *He is aiming. He is bloody aiming to shoot.* The adrenaline soared through her veins. She dashed for the nearest building which was about fifteen metres ahead. Sheetal felt her legs are going to give up on her any second. *Almost there.*
 
